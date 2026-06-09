@@ -19,7 +19,7 @@ st.set_page_config(
 st.sidebar.title("California - Real Estate Agency 🏡")
 page = st.sidebar.selectbox("Select Page",["Introduction 📘","Visualization 📊", "Automated Report 📑","Prediction"])
 
-st.markdown("Hello, welcome to my app")
+st.markdown("### Welcome to the next generation real estate agency")
 
 #st.video("video.mp4")
 
