@@ -6,7 +6,7 @@ import seaborn as sns
 import streamlit as st
 import numpy as np
 import sklearn
-
+## print something
 st.set_page_config(
     page_title="Califronia Housing Dashboard 🏡",
     layout="centered",
